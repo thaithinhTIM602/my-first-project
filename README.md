@@ -1,2 +1,2 @@
-# my-first-project
-My first project learning GitHub and Python
+# my-introduction
+A little bit about my background.
